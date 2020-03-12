@@ -1,7 +1,7 @@
 # SmallStockMarket
 Implement a stock market. Allow for trading stocks between buyers and sellers. Implement rules for trading. OOP. Java.
 
-##Methods
+## Methods
 1. NEW [ACCOUNT#] [BALANCE] [OWNED_STOCKS]
 • This action adds a new investing account to the system.
 2. ADD [ASK_OR_BID] [ACCOUNT#] [SYMBOL] [NB_STOCKS] [PRICE]
